@@ -1,0 +1,11 @@
+🌍 Original Repo (owned by org)
+    ↓
+🍴 You fork it (your copy on GitHub)
+    ↓
+💻 Clone to local machine
+    ↓
+🔧 Make changes in a branch
+    ↓
+📤 Push to your fork
+    ↓
+📬 Open a Pull Request (from your fork → org repo)
