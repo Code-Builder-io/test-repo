@@ -9,3 +9,10 @@
 📤 Push to your fork
     ↓
 📬 Open a Pull Request (from your fork → org repo)
+
+For Syncing Files follow these steps--->
+git remote add upstream <original-repo>
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
